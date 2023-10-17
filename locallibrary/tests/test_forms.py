@@ -1,7 +1,7 @@
 from django.test import TestCase
 
 import datetime
-from catalog.forms import RenewBookForm
+from locallibrary.locallibrary.catalog.forms import RenewBookForm
 
 
 class RenewBookFormTest(TestCase):
